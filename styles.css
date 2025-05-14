@@ -1,0 +1,15 @@
+#titulo{
+    color: green;
+    text-align: center;
+    font-family:cursive;
+}
+
+.card:hover{
+    transform: scale(1.04);
+    transition: transform 0.3s ease;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.fondo{
+    background-color:cornsilk;
+}
